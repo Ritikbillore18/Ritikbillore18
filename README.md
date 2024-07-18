@@ -23,8 +23,8 @@ I'm a Software Developer.
 
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-![Java](https://example.com/images/java.png)
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
 ## 📫 How to reach me
 - [Portfolio](https://www.ritikbillore.com/)
