@@ -19,7 +19,7 @@ I'm a Software Developer.
 - **Tools**: Git, GitHub , VS -code , Ecllipse ,Netbeans ,Turbo c++
 
 ## 📈 GitHub Stats
-![My Github Stats]((https://github.com/Ritikbillore18/Ritik-Billore))
+![My Github Stats]((https://github.com/Ritikbillore18))
 
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
