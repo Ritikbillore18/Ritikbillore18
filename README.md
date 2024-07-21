@@ -18,11 +18,9 @@ I'm a Software Developer.
 - **Database**: MySQL , Oracle
 - **Tools**: Git, GitHub , VS -code , Ecllipse ,Netbeans ,Turbo c++
 
-## 📈 GitHub Stats
-![My Github Stats]((https://github.com/Ritikbillore18))
 
 ## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages]
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
