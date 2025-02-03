@@ -1,7 +1,7 @@
 # Hi there, I'm Ritik Billore! 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Passionate+About+Backend+Development;Open+To+Collaborations;Always+Learning+New+Technologies+%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Passionate+About+Backend+Development;Freelancer+%26+Problem+Solver;Always+Learning+New+Technologies+%F0%9F%9A%80">
 </p>
 
 ---
@@ -16,31 +16,54 @@
 
 ---
 
+## 🏢 Experience  
+### **Freelance Developer (2024 - Present)**
+🚀 **Nagraj Spices (E-Commerce Venture)**  
+- Built **SpicesHeaven** e-commerce website using **Vanilla JS, HTML, CSS, JavaScript, and Email.js**.  
+- Implemented smooth **product browsing, cart functionality, and user-friendly UI**.  
+- Overcame **real-world dev challenges** to meet client needs.  
+- Live Website: [SpicesHeaven](https://nagrajspices.in/)  
+
+---
+
 ## 🛠 Tech Stack  
 
 ### **👨‍💻 Programming Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++"/>
+</p>
 
 ### **🖥️ Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite.js](https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="50" alt="Vite.js"/>
+</p>
 
 ### **🛠 Backend Development**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
+</p>
 
 ### **🗄️ Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="Oracle"/>
+</p>
 
 ### **🔧 Tools & IDEs**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" alt="Eclipse"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="50" alt="NetBeans"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="50" alt="AWS"/>
+</p>
 
 ---
 
@@ -57,17 +80,28 @@
 
 ---
 
+## 💡 Projects  
+🚀 **[GrowMore](https://github.com/Ritikbillore18/GrowMore/)** - A **fundraising website** with Java, J2EE, HTML, CSS, JavaScript, MySQL & Git.  
+🌍 **[Enfield Nexus](https://github.com/Ritikbillore18/Royal-Enfield-Bike-Showroom-/)** - A full-stack **Royal Enfield showroom site** with **EMI calculator, inventory management & test ride booking**.  
+🛒 **[SpicesHeaven Online Store](https://nagrajspices.in/)** - A **live e-commerce website** for Nagraj Spices.  
+🌐 **[Personal Portfolio](https://www.ritikbillore.com/)** - Showcasing my work & skills.  
+
+---
+
+## 🏅 Certifications & Achievements  
+✅ **Solved 150+ LeetCode Problems** & earned **100-day consistency badge** 🏆  
+✅ **Completed 250+ CodeChef challenges** & achieved **Golden badge for Consistency** 🎖  
+✅ **Certified in Java Core + Advance** from **Stepping Stones Java (DAVV)** 🎓  
+
+---
+
 ## 📫 How to Reach Me  
 💼 **Portfolio**: [ritikbillore.com](https://www.ritikbillore.com/)  
 📧 **Email**: [ritikbillore25@gmail.com](mailto:ritikbillore25@gmail.com)  
 🔗 **LinkedIn**: [ritik-billore](https://www.linkedin.com/in/ritik-billore-7a6669234)  
-
----
-
-## 💡 Projects  
-🚀 **[Royal Enfield Bike Showroom](https://github.com/Ritikbillore18/Royal-Enfield-Bike-Showroom-)** - A Java-based showroom management system.  
-🛒 **[SpicesHeaven Online Store](https://nagrajspices.in/)** - A live e-commerce website.  
-🌐 **[Personal Portfolio](https://www.ritikbillore.com/)** - Showcasing my work & skills.  
+🏆 **HackerRank**: [ritikbillore18](https://www.hackerrank.com/profile/ritikbillore18)  
+🔥 **CodeChef**: [ritik_billore](https://www.codechef.com/users/ritik_billore)  
+💡 **LeetCode**: [Ritik Billore](https://leetcode.com/u/Ritik_billore/)  
 
 ---
 
